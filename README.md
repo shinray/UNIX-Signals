@@ -18,6 +18,8 @@ In this video, we briefly mention what signals are, and give a few examples of s
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 Here, we demonstrate how to catch a signal, and also how to override them with our own custom handler.
+##`Sigaction() and an example
+<a href= "https://www.youtube.com/watch?v=ahRBRGVTi5w" target"_black"><imgsrc="http://img.youtube.com/vi/ahRBRGVTi5w/0.jpg" alt = "IMAGE ALT TEXT HERE" width="240" height="180" border"10" /></a>
 ##`kill()`
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=2-pIsY7iq10" target="_blank"><img src="http://img.youtube.com/vi/2-pIsY7iq10/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
