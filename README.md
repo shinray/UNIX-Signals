@@ -1,6 +1,5 @@
 UNIX-Signals
 ============
-a tutorial on signals by Shinray and Ian
 
 How can vim and bash ignore `^C`? Especially considering that programs launched by bash do not ignore such signals?
 
