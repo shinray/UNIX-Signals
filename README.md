@@ -19,7 +19,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 Here, we demonstrate how to catch a signal, and also how to override them with our own custom handler.
 
 ##`sigaction()` and an example
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=ahRBRGVTi5w" target="_blank"><img src="http://img.youtube.com/vi/ahRBRGVTi5w/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=e8emo6CzHRk" target="_blank"><img src="http://img.youtube.com/vi/e8emo6CzHRk/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 This is a simple lesson on what sigaction is and how sigaction can be used.
