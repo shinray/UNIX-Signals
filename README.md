@@ -6,14 +6,14 @@ How can vim and bash ignore `^C`? Especially considering that programs launched 
 This page contains a few videos that should hopefully give you a better understanding of what signals are and what you can do with them.
 
 ##Introduction
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=LgNg_fyk8-c" target="_blank"><img src="http://img.youtube.com/vi/LgNg_fyk8-c/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Hu2CYemkgYw" target="_blank"><img src="http://img.youtube.com/vi/Hu2CYemkgYw/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 In this video, we briefly mention what signals are, and give a few examples of some common signals.
 **NOTE:** `SIGSTOP` and `SIGKILL` cannot be caught or ignored.
 
 ##`signal()` and custom handlers
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=mzdCf0zCmrg" target="_blank"><img src="http://img.youtube.com/vi/mzdCf0zCmrg/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=zp7IRV5kkWM" target="_blank"><img src="http://img.youtube.com/vi/zp7IRV5kkWM/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 Here, we demonstrate how to catch a signal, and also how to override them with our own custom handler.
